@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Guga Eye Rest Pet desktop pet preview</title>
+  <desc id="desc">A product preview of the draggable desktop pet window, action buttons, and speech bubble.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#e8fff7"/><stop offset="1" stop-color="#f7fbff"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#203040" flood-opacity=".14"/></filter>
+  </defs>
+  <rect width="1200" height="760" fill="url(#bg)"/>
+  <text x="80" y="104" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#102033">Guga Eye Rest Pet</text>
+  <text x="82" y="132" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#456070">A tiny desktop companion that reminds you to rest your eyes.</text>
+  <rect x="120" y="182" width="462" height="340" rx="28" fill="#fff" filter="url(#shadow)"/>
+  <text x="164" y="246" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" fill="#152238">Desktop pet window</text>
+  <text x="166" y="276" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#52677a">Frameless, transparent, draggable, always-on-top by default.</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#24446d" text-anchor="middle">
+    <rect x="160" y="324" width="92" height="42" rx="21" fill="#eef5ff"/><text x="206" y="351">Set</text>
+    <rect x="282" y="324" width="92" height="42" rx="21" fill="#eef5ff"/><text x="328" y="351">Rest</text>
+    <rect x="404" y="324" width="92" height="42" rx="21" fill="#eef5ff"/><text x="450" y="351">Feed</text>
+  </g>
+  <rect x="160" y="404" width="330" height="54" rx="18" fill="#dff8ec"/>
+  <text x="188" y="437" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#245742">I am here to protect your eyes~</text>
+  <rect x="700" y="100" width="300" height="300" rx="28" fill="#fff" filter="url(#shadow)"/>
+  <g transform="translate(760 145)">
+    <ellipse cx="90" cy="122" rx="70" ry="102" fill="#33343a"/><ellipse cx="90" cy="143" rx="46" ry="66" fill="#fff2df"/>
+    <circle cx="90" cy="69" r="58" fill="#2e3036"/><path d="M68 58 Q90 38 112 58 Q91 72 68 58Z" fill="#f4b336"/>
+    <circle cx="65" cy="70" r="9" fill="#fff"/><circle cx="115" cy="70" r="9" fill="#fff"/><circle cx="68" cy="71" r="4" fill="#101318"/><circle cx="112" cy="71" r="4" fill="#101318"/>
+    <circle cx="70" cy="106" r="12" fill="#15191f"/><circle cx="110" cy="106" r="12" fill="#15191f"/><circle cx="74" cy="102" r="4" fill="#fff"/><circle cx="106" cy="102" r="4" fill="#fff"/>
+    <path d="M82 124 Q90 132 98 124" stroke="#e46f5b" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <path d="M35 160 Q5 178 26 207" stroke="#33343a" stroke-width="24" fill="none" stroke-linecap="round"/><path d="M145 160 Q175 178 154 207" stroke="#33343a" stroke-width="24" fill="none" stroke-linecap="round"/>
+    <ellipse cx="58" cy="224" rx="22" ry="10" fill="#f2b12f"/><ellipse cx="122" cy="224" rx="22" ry="10" fill="#f2b12f"/>
+  </g>
+</svg>
