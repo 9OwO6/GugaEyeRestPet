@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="900" viewBox="0 0 1280 900" role="img" aria-labelledby="title desc">
+  <title id="title">Guga settings window preview</title>
+  <desc id="desc">Settings preview showing care stats, reminder controls, and Start with Windows.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f6f8fb"/>
+      <stop offset="1" stop-color="#edf7f2"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#203040" flood-opacity=".10"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="900" fill="url(#bg)"/>
+  <text x="78" y="90" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#102033">Settings</text>
+  <text x="80" y="116" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#596b7d">Configure reminders, break overlay, skins, pause state, and Windows startup.</text>
+  <rect x="952" y="82" width="138" height="44" rx="18" fill="#2f6fe4"/>
+  <text x="1021" y="111" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#fff">Save</text>
+  <rect x="72" y="150" width="520" height="250" rx="22" fill="#fff" filter="url(#shadow)"/>
+  <text x="110" y="210" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" fill="#172033">Today with Guga</text>
+  <g text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">
+    <rect x="110" y="242" width="118" height="84" rx="16" fill="#f0f7ff"/>
+    <text x="169" y="290" font-size="38" font-weight="700" fill="#2463ad">3</text>
+    <text x="169" y="309" font-size="12" fill="#596b7d">Feeds</text>
+    <rect x="256" y="242" width="118" height="84" rx="16" fill="#f0f7ff"/>
+    <text x="315" y="290" font-size="38" font-weight="700" fill="#22865a">2</text>
+    <text x="315" y="309" font-size="12" fill="#596b7d">Breaks</text>
+    <rect x="400" y="242" width="118" height="84" rx="16" fill="#f0f7ff"/>
+    <text x="459" y="290" font-size="38" font-weight="700" fill="#a65c2d">0</text>
+    <text x="459" y="309" font-size="12" fill="#596b7d">Skipped</text>
+  </g>
+  <rect x="110" y="344" width="400" height="34" rx="14" fill="#e6f8ef"/>
+  <text x="126" y="366" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#246044">Cozy - Nice, your eyes got some care today.</text>
+  <rect x="650" y="150" width="520" height="600" rx="22" fill="#fff" filter="url(#shadow)"/>
+  <text x="690" y="210" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" fill="#172033">Reminder controls</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#31465a">
+    <rect x="690" y="245" width="420" height="42" rx="12" fill="#f8fafc"/><text x="714" y="272">Reminder interval: 120 minutes</text>
+    <rect x="690" y="307" width="420" height="42" rx="12" fill="#f8fafc"/><text x="714" y="334">Break duration: 60 seconds</text>
+    <rect x="690" y="369" width="420" height="42" rx="12" fill="#f8fafc"/><text x="714" y="396">Overlay theme: Green</text>
+    <rect x="690" y="431" width="420" height="42" rx="12" fill="#f8fafc"/><text x="714" y="458">Guga skin: Default</text>
+    <rect x="690" y="493" width="420" height="42" rx="12" fill="#f8fafc"/><text x="714" y="520">Always on top: On</text>
+    <rect x="690" y="555" width="420" height="42" rx="12" fill="#f8fafc"/><text x="714" y="582">Pause reminders: Off</text>
+    <rect x="690" y="617" width="420" height="42" rx="12" fill="#f8fafc"/><text x="714" y="644">Start with Windows: On</text>
+  </g>
+  <g transform="translate(210 470) scale(1.05)">
+    <ellipse cx="82" cy="105" rx="66" ry="94" fill="#33343a"/>
+    <ellipse cx="82" cy="126" rx="44" ry="58" fill="#fff2df"/>
+    <circle cx="82" cy="54" r="54" fill="#2e3036"/>
+    <path d="M60 45 Q82 25 104 45 Q82 60 60 45Z" fill="#f4b336"/>
+    <circle cx="59" cy="58" r="8" fill="#fff"/><circle cx="105" cy="58" r="8" fill="#fff"/>
+    <circle cx="62" cy="59" r="3.5" fill="#101318"/><circle cx="102" cy="59" r="3.5" fill="#101318"/>
+    <circle cx="64" cy="93" r="11" fill="#15191f"/><circle cx="100" cy="93" r="11" fill="#15191f"/>
+    <path d="M74 112 Q82 120 90 112" stroke="#e46f5b" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <path d="M30 140 Q5 160 24 188" stroke="#33343a" stroke-width="21" fill="none" stroke-linecap="round"/>
+    <path d="M134 140 Q166 160 146 192" stroke="#33343a" stroke-width="21" fill="none" stroke-linecap="round"/>
+    <ellipse cx="52" cy="207" rx="20" ry="9" fill="#f2b12f"/>
+    <ellipse cx="112" cy="207" rx="20" ry="9" fill="#f2b12f"/>
+  </g>
+</svg>
