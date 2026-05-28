@@ -2,13 +2,13 @@
 
 Guga Eye Rest Pet 是一个 Windows 优先的 Electron 桌面护眼提醒应用。它会在桌面上显示可爱的咕嘎桌宠，在设定时间提醒你休息眼睛，并用全屏半透明倒计时遮罩陪你完成一次短暂休息。
 
-![Guga desktop pet](docs/screenshots/pet-window.png)
+![Guga desktop pet](docs/screenshots/pet-window.svg)
 
 ## 产品截图
 
-![Settings window](docs/screenshots/settings-window.png)
+![Settings window](docs/screenshots/settings-window.svg)
 
-![Break overlay](docs/screenshots/break-overlay.png)
+![Break overlay](docs/screenshots/break-overlay.svg)
 
 ## 功能
 
